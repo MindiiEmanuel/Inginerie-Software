@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Emi
+ *
+ */
+module SingletonExample {
+}
