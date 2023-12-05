@@ -26,7 +26,7 @@ UserMenu este folosit pentru a afișa meniul și a gestiona interacțiunea cu ut
 Clasa eShopPlatform este clasa principală care inițializează autentificarea, bugetul, stocul și acțiunile utilizatorilor. Ea rulează aplicația într-un buclă principală, permițând utilizatorilor să aleagă între rolul de vânzător și client.
 9.	Rularea aplicației:
 La final, se creează o instanță a clasei eShopPlatform și se rulează metoda run() pentru a începe aplicația.
-Este important să menționăm că acest cod poate servi drept schelet pentru o aplicație de comerț electronic mai complexă și poate fi extins și personalizat în funcție de cerințe. Este o implementare bine structurată și utilizează diverse concepte de programare orientată pe obiect (OO) și design patterns.
+Este important să menționăm că acest cod poate servi drept schelet pentru o aplicație de comerț electronic mai complexă și poate fi extins și personalizat în funcție de cerințe. Este o implementare structurată și utilizează diverse concepte de programare orientată pe obiect (OO) și design patterns.
 
 Pattern-urile folosite: 
 
