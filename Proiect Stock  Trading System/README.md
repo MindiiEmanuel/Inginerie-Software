@@ -1,3 +1,4 @@
+Proiect Stock Trading System
 Singleton Pattern:
 Utilizare: Se asigură că o clasă are o singură instanță și oferă un punct de acces global la această instanță.
 Exemplu: User clasă folosește Singleton Pattern pentru a avea o singură instanță a utilizatorului autentificat.
